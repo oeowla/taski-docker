@@ -11,7 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['89.169.166.143', 'localhost', 'taski-docker.servehttp.com']
 
 
-# Application definition
+# Application
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
